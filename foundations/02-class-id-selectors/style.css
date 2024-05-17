@@ -1,0 +1,22 @@
+p {
+  background-color: #ffc0cb;
+  font-size: larger;
+}
+
+div {
+  font-weight: bold;
+}
+#anotherid {
+  font-size: large;
+  background-color: #8cf19a;
+}
+
+#oneid {
+  font-size: xx-large;
+  color: #303ac9;
+}
+.coolerclass {
+  font-family: Verdana, Tahoma, sans-serif;
+  font-weight: bold;
+  font-size: large;
+}
